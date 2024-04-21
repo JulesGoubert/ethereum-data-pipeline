@@ -1,0 +1,17 @@
+../data/ethereum-block-2023-12-09-12-31.json
+../data/ethereum-block-2023-12-09-13-00.json
+../data/ethereum-block-2023-12-09-13-30.json
+../data/ethereum-block-2023-12-09-14-00.json
+../data/ethereum-block-2023-12-09-14-30.json
+../data/ethereum-block-2023-12-09-15-00.json
+../data/ethereum-block-2023-12-09-15-30.json
+../data/ethereum-block-2023-12-09-16-00.json
+../data/ethereum-block-2023-12-09-16-30.json
+../data/ethereum-block-2023-12-09-17-00.json
+../data/ethereum-block-2023-12-09-17-30.json
+../data/ethereum-block-2023-12-09-18-00.json
+../data/ethereum-block-2023-12-09-18-30.json
+../data/ethereum-block-2023-12-09-19-00.json
+../data/ethereum-block-2023-12-09-19-30.json
+../data/ethereum-block-2023-12-09-20-00.json
+../data/ethereum-block-2023-12-09-20-30.json
